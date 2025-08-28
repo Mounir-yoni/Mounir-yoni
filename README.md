@@ -35,7 +35,7 @@
 <br>
 <p align="center">
   <code><img title="JavaScript" height="25" src="/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="/typescript.svg"></code>
+  <code><img title="TypeScript" height="25" src="/typescript-svgrepo-com.svg"></code>
   <code><img title="React" height="25" src="/react-original.svg"></code>
   <code><img title="Next.js" height="25" src="/nextjs.svg"></code>
   <code><img title="Node.js" height="25" src="/nodejs.svg"></code>
