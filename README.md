@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm <b>Mounir Day</b>, a passionate <b>Full Stack Developer</b> from Algeria 🌍
+  Hi, I'm <b>Mounir cherad</b>, a passionate <b>Full Stack Developer</b> from Algeria 🌍
   <br><br>
   💻 I build <b>modern web applications</b> using the latest technologies.
   <br>
@@ -26,7 +26,7 @@
   <br>
   💬 Ask me about <b>JavaScript, React, Next.js, Node.js, MongoDB</b>.
   <br>
-  📫 Reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a>
+  📫 Reach me at: <a href="mailto:mouniryt21@gmail.com">mouniryt21@gmail.com</a>
 </p>
 
 <hr>
