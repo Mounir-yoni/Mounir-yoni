@@ -37,15 +37,15 @@
   <code><img title="JavaScript" height="25" src="/javascript.svg"></code>
   <code><img title="TypeScript" height="25" src="/typescript-svgrepo-com.svg"></code>
   <code><img title="React" height="25" src="/react-original.svg"></code>
-  <code><img title="Next.js" height="25" src="/nextjs.svg"></code>
-  <code><img title="Node.js" height="25" src="/nodejs.svg"></code>
-  <code><img title="Express.js" height="25" src="/express.png"></code>
-  <code><img title="MongoDB" height="25" src="/mongodb.svg"></code>
+  <code><img title="Next.js" height="25" src="/nextjs-icon-svgrepo-com.svg"></code>
+  <code><img title="Node.js" height="25" src="/node-js-svgrepo-com.svg"></code>
+  <code><img title="Express.js" height="25" src="/nodejs-svgrepo-com.svg"></code>
+  <code><img title="MongoDB" height="25" src="/mongodb-svgrepo-com.svg"></code>
   <code><img title="PostgreSQL" height="25" src="/postgresql.svg"></code>
   <code><img title="HTML5" height="25" src="/html5.svg"></code>
   <code><img title="CSS3" height="25" src="/css.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="/tailwind.svg"></code>
-  <code><img title="Bootstrap" height="25" src="/bootstrap.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="/tailwind-svgrepo-com.svg"></code>
+  <code><img title="Bootstrap" height="25" src="/bootstrap-4-logo-svgrepo-com.svg"></code>
   <code><img title="Git" height="25" src="/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="/github.svg"></code>
   <code><img title="VS Code" height="25" src="/vscode.png"></code>
