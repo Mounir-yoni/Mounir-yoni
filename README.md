@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Mounir+Day...;Full+Stack+Developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Mounir+cherad...;Full+Stack+Developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn Profile"><img width="22" src="/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/mounirday" title="GitHub Profile"><img width="22" src="/github.svg"> GitHub</a></code>
-  <code><a href="mailto:your-email@example.com" title="Email"><img width="22" src="/email.svg"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/mounir-cherad-81608b312/" title="LinkedIn Profile"><img width="22" src="/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/Mounir-yoni" title="GitHub Profile"><img width="22" src="/github.svg"> GitHub</a></code>
+  <code><a href="mailto:mouniryt21@gmail.com" title="Email"><img width="22" src="/email.svg"> Email</a></code>
 </h5>
 <br>
 
