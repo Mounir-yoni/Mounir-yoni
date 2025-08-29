@@ -70,10 +70,10 @@
 <h2 align="center">📌 Featured Projects 📌</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mounirday/ecommerce-platform" title="E-Commerce Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mounirday&repo=ecommerce-platform&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mounirday/travel-agency" title="Travel Agency Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mounirday&repo=travel-agency&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Mounir-yoni/ecommerce-platform" title="E-Commerce Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mounirday&repo=ecommerce-platform&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Mounir-yoni/travel-agency" title="Travel Agency Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mounirday&repo=travel-agency&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/mounirday?tab=repositories" title="Show More Repositories">🔎 View More 🔍</a>
+  <a href="https://github.com/Mounir-yoni?tab=repositories" title="Show More Repositories">🔎 View More 🔍</a>
 </h4>
