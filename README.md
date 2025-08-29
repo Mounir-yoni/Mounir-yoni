@@ -56,13 +56,13 @@
 <br>
 <p align=center>
   <div align=center>
-    <img width=390 src="https://streak-stats.demolab.com/?user=mounirday&theme=react&border=61dafb&hide_border=true" alt="streak stats" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=mounirday&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img width=390 src="https://streak-stats.demolab.com/?user=Mounir-yoni&theme=react&border=61dafb&hide_border=true" alt="streak stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mounir-yoni&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounirday&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-yoni&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mounirday&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounir-yoni&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
